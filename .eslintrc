@@ -1,0 +1,6 @@
+{
+    "extends": "rallycoding",
+    "eslint.options": {
+        "ignorePath": ".eslintignore"
+    }
+}
